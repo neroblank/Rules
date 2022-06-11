@@ -12,7 +12,7 @@ HOST-KEYWORD,fanbox,Japan
 HOST-KEYWORD,cygame,Japan
 
 # Discord
-HOST-KEYWORD,discord,Outside
+#HOST-KEYWORD,discord,Outside
 HOST-KEYWORD,discord,Japan
 
 # malimali
