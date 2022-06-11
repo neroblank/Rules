@@ -1,3 +1,4 @@
 payload:
   # > Discord
-  - DOMAIN-KEYWORD,Discord
+  - DOMAIN-KEYWORD,discord,Discord
+  
