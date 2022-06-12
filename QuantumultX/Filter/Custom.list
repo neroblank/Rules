@@ -2,11 +2,11 @@
 #HOST-KEYWORD,pixiv,Outside
 #HOST-SUFFIX,booth.pm,Outside
 
-#HOST-KEYWORD,pixiv,Outside
-#HOST-SUFFIX,pixiv.net,Outside
-#HOST-SUFFIX,booth.pm,Outside
-#HOST-SUFFIX,pximg.net,Outside
-#HOST-KEYWORD,fanbox,Outside
+HOST-KEYWORD,pixiv,Outside
+HOST-SUFFIX,pixiv.net,Outside
+HOST-SUFFIX,booth.pm,Outside
+HOST-SUFFIX,pximg.net,Outside
+HOST-KEYWORD,fanbox,Outside
 
 # 日本手游
 HOST-KEYWORD,cygame,Japan
