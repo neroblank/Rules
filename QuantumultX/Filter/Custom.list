@@ -19,3 +19,6 @@ HOST-KEYWORD,malimali,direct
 
 # RBC
 HOST-KEYWORD,rbc,direct
+
+# Japan
+geoip, jp, Japan
