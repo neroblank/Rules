@@ -1,7 +1,4 @@
 # Pixiv
-#HOST-KEYWORD,pixiv,Outside
-#HOST-SUFFIX,booth.pm,Outside
-
 HOST-KEYWORD,pixiv,Outside
 HOST-SUFFIX,pixiv.net,Outside
 HOST-SUFFIX,booth.pm,Outside
@@ -24,3 +21,4 @@ HOST-KEYWORD,flybits,direct
 
 # Japan
 geoip, jp, Japan
+
