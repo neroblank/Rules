@@ -20,7 +20,7 @@ HOST-KEYWORD,malimali,direct
 # Banks
 HOST-KEYWORD,rbc,direct
 HOST-SUFFIX,td.com,direct
-HOST-KEYWORD,fliybits,direct
+HOST-KEYWORD,flybits,direct
 
 # Japan
 geoip, jp, Japan
