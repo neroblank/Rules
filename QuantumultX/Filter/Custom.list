@@ -18,6 +18,8 @@ HOST-KEYWORD,malimali,direct
 HOST-KEYWORD,rbc,direct
 HOST-SUFFIX,td.com,direct
 HOST-KEYWORD,flybits,direct
+HOST-SUFFIX,bmo.com,direct
+HOST-SUFFIX,dynatrace.com,direct
 
 # Japan
 geoip, jp, Japan
