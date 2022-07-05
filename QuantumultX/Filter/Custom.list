@@ -17,8 +17,10 @@ HOST-KEYWORD,discord,Discord
 # malimali
 HOST-KEYWORD,malimali,direct
 
-# RBC
+# Banks
 HOST-KEYWORD,rbc,direct
+HOST-SUFFIX,td.com,direct
+HOST-KEYWORD,fliybits,direct
 
 # Japan
 geoip, jp, Japan
