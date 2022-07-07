@@ -10,7 +10,7 @@ HOST-KEYWORD,cygame,Japan
 
 # Discord
 HOST-KEYWORD,discord,Discord
-ip-cidr,66.22.0.0/16,Discord
+ip-cidr,66.22.192.0/18,Discord
 
 # malimali
 HOST-KEYWORD,malimali,direct
