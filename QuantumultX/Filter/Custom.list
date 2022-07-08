@@ -6,7 +6,7 @@ HOST-SUFFIX,pximg.net,Outside
 HOST-KEYWORD,fanbox,Outside
 
 # 日本手游
-HOST-KEYWORD,cygame,JP手游
+HOST-SUFFIX,cygames.jp,JP手游
 
 # Discord
 HOST-KEYWORD,discord,Discord
