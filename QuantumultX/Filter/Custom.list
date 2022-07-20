@@ -25,3 +25,23 @@ HOST-SUFFIX,dynatrace.com,direct
 # Japan
 geoip, jp, Japan
 
+# bilibili
+DOMAIN,api.biliapi.com,CMedia
+DOMAIN,api.biliapi.net,CMedia
+DOMAIN,api.bilibili.com,CMedia
+DOMAIN,app.biliapi.com,CMedia
+DOMAIN,app.biliapi.net,CMedia
+DOMAIN,app.bilibili.com,CMedia
+DOMAIN,grpc.biliapi.net,CMedia
+DOMAIN,m.bilibili.com,CMedia
+DOMAIN,upos-hz-mirrorakam.akamaized.net,CMedia
+DOMAIN,www.bilibili.com,CMedia
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,CMedia
+# 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com,CMedia
+IP-CIDR,116.211.202.206/32,CMedia
+IP-CIDR,116.211.202.216/32,CMedia
+# MangoTV(芒果TV国际)
+DOMAIN-SUFFIX,api.mgtv.com,CMedia
+DOMAIN,mobileso.bz.mgtv.com,CMedia
+
