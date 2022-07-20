@@ -45,3 +45,5 @@ IP-CIDR,116.211.202.216/32,CMedia
 DOMAIN-SUFFIX,api.mgtv.com,CMedia
 DOMAIN,mobileso.bz.mgtv.com,CMedia
 
+# 防脚本失效
+ip-cidr, 203.107.1.1/24, reject
