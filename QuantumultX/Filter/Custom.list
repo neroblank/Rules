@@ -37,6 +37,7 @@ DOMAIN,m.bilibili.com,CMedia
 DOMAIN,upos-hz-mirrorakam.akamaized.net,CMedia
 DOMAIN,www.bilibili.com,CMedia
 DOMAIN-KEYWORD,cn-hk-eq-bcache-,CMedia
+ip-cidr,121.11.192.0/24,CMedia
 
 #防止b站自动切换脚本失效
 IP-CIDR,203.107.1.1/24,reject
