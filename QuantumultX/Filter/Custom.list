@@ -52,4 +52,6 @@ DOMAIN-SUFFIX,api.mgtv.com,CMedia
 DOMAIN,mobileso.bz.mgtv.com,CMedia
 
 # 地图
-HOST-SUFFIX,is.autonavi.com,Apple
+HOST-SUFFIX,is.autonavi.com,apple
+HOST-SUFFIX,ls.apple.com,apple
+
