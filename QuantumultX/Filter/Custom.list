@@ -51,4 +51,5 @@ IP-CIDR,116.211.202.216/32,CMedia
 DOMAIN-SUFFIX,api.mgtv.com,CMedia
 DOMAIN,mobileso.bz.mgtv.com,CMedia
 
-
+# 地图
+DOMAIN-SUFFIX, is.autonavi.com
