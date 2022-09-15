@@ -61,3 +61,5 @@ DOMAIN,mobileso.bz.mgtv.com,CMedia
 HOST-SUFFIX,is.autonavi.com,AppleMap
 HOST-SUFFIX,ls.apple.com,AppleMap
 
+# iFixit
+HOST-KEYWORD,ifixit,Outside
