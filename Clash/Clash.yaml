@@ -138,7 +138,7 @@ proxy-providers:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-    Proxies - SG:
+  Proxies - SG:
     type: http
     url: "https://api.dler.io/sub?target=clash&url=订阅链接&include=%E6%96%B0%E5%8A%A0%E5%9D%A1%7CSG&emoji=true&list=true&udp=true&tfo=true&scv=false&fdn=false&sort=false"
     interval: 3600
@@ -147,7 +147,7 @@ proxy-providers:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-    Proxies - TW:
+  Proxies - TW:
     type: http
     url: "https://api.dler.io/sub?target=clash&url=订阅链接&include=%E5%8F%B0%E6%B9%BE%7CTW&emoji=true&list=true&udp=true&tfo=true&scv=false&fdn=false&sort=false"
     interval: 3600
@@ -156,7 +156,7 @@ proxy-providers:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-    Proxies - JP:
+  Proxies - JP:
     type: http
     url: "https://api.dler.io/sub?target=clash&url=订阅链接&include=%E6%97%A5%E6%9C%AC%7CJP&emoji=true&list=true&udp=true&tfo=true&scv=false&fdn=false&sort=false"
     interval: 3600
@@ -165,7 +165,7 @@ proxy-providers:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-    Proxies - KR:
+  Proxies - KR:
     type: http
     url: "https://api.dler.io/sub?target=clash&url=订阅链接&include=%E9%9F%A9%E5%9B%BD%7CKR&emoji=true&list=true&udp=true&tfo=true&scv=false&fdn=false&sort=false"
     interval: 3600
@@ -174,7 +174,7 @@ proxy-providers:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-    Proxies - US:
+  Proxies - US:
     type: http
     url: "https://api.dler.io/sub?target=clash&url=订阅链接&include=%E7%BE%8E%E5%9B%BD%7CUS&emoji=true&list=true&udp=true&tfo=true&scv=false&fdn=false&sort=false"
     interval: 3600
