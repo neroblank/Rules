@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,discord.gg,Discord
 DOMAIN-SUFFIX,discord.media,Discord
 DOMAIN-SUFFIX,discordstatus.com,Discord
 HOST-KEYWORD,discord,Discord
-ip-cidr,66.22.192.0/18,Discord
+ip-cidr,66.22.196.0/22,Discord
 
 # malimali
 HOST-KEYWORD,malimali,direct
