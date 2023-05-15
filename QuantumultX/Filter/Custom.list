@@ -93,3 +93,6 @@ DOMAIN-SUFFIX,ls.apple.com,AppleMap
 
 # iFixit
 DOMAIN-KEYWORD,ifixit,Outside
+
+#hentai
+DOMAIN-KEYWORD,hentai,Outside
