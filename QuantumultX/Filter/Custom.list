@@ -96,3 +96,6 @@ DOMAIN-KEYWORD,ifixit,Outside
 
 #hentai
 DOMAIN-KEYWORD,hentai,Outside
+
+#OpenAI
+DOMAIN-KEYWORD,openai,Outside
