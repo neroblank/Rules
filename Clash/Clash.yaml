@@ -1,4 +1,4 @@
-# 2022年08月31日 14:02 UTC/GMT +8
+# 2022年10月22日 02:14 UTC/GMT +8
 
 port: 7890
 socks-port: 7891
@@ -62,6 +62,8 @@ dns:
     - 'xbox.*.microsoft.com'
     - '+.xboxlive.com'
     - 'stun.*'
+    - 'global.turn.twilio.com'
+    - 'global.stun.twilio.com'
     - 'localhost.*.qq.com'
     - '+.logon.battlenet.com.cn'
     - '+.logon.battle.net'
@@ -70,11 +72,13 @@ dns:
     - 'id6.me'
     - 'open.e.189.cn'
     - 'mdn.open.wo.cn'
+    - 'opencloud.wostore.cn'
     - 'auth.wosms.cn'
     - '+.jegotrip.com.cn'
     - '+.icitymobile.mobi'
     - '+.pingan.com.cn'
     - '+.cmbchina.com'
+    - '+.cmbchina.com.cn'
     - '+?miwifi.com'
     - 'pool.ntp.org'
     - '+.pool.ntp.org'
@@ -630,7 +634,7 @@ rule-providers:
     url: https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Apple.yaml
     path: ./Rules/Apple.yaml
     interval: 86400
-# 电报、Steam、微软及 Steam / PayPal 可选规则列表
+# 电报、微软、Steam 及 PayPal 可选规则列表
   Telegram:
     type: http
     behavior: classical
