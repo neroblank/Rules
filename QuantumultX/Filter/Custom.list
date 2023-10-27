@@ -59,7 +59,7 @@ DOMAIN-SUFFIX,bmo.com,direct
 DOMAIN-SUFFIX,dynatrace.com,direct
 
 # Japan
-geoip, jp, Outside
+#geoip, jp, Outside
 
 # bilibili
 DOMAIN,api.biliapi.com,CMedia
