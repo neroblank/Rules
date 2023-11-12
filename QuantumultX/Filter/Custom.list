@@ -114,3 +114,6 @@ DOMAIN-SUFFIX,ithome.com,Netease Music
 #喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com,CMedia
 DOMAIN-SUFFIX,xmcdn.com,CMedia
+
+#友盟
+DOMAIN-SUFFIX,umeng.com,Reject
