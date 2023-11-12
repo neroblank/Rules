@@ -116,5 +116,5 @@ DOMAIN-SUFFIX,ximalaya.com,CMedia
 DOMAIN-SUFFIX,xmcdn.com,CMedia
 
 #友盟
-DOMAIN-SUFFIX,umeng.com,Reject
-DOMAIN-SUFFIX,umengcloud.com,Reject
+DOMAIN-SUFFIX,umeng.com,AdBlock
+DOMAIN-SUFFIX,umengcloud.com,AdBlock
