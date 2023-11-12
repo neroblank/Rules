@@ -117,3 +117,4 @@ DOMAIN-SUFFIX,xmcdn.com,CMedia
 
 #友盟
 DOMAIN-SUFFIX,umeng.com,Reject
+DOMAIN-SUFFIX,umengcloud.com,Reject
