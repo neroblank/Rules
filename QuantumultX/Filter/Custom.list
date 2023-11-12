@@ -110,3 +110,7 @@ DOMAIN,production-openaicom-storage.azureedge.net,Outside
 
 # 其他需要翻墙的国内网站
 DOMAIN-SUFFIX,ithome.com,Netease Music
+
+#喜马拉雅
+DOMAIN-SUFFIX,ximalaya.com,CMedia
+DOMAIN-SUFFIX,xmcdn.com,CMedia
