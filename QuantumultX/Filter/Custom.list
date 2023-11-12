@@ -75,7 +75,7 @@ DOMAIN,www.bilibili.com,CMedia
 DOMAIN-KEYWORD,cn-hk-eq-bcache-,CMedia
 ip-cidr,121.11.192.0/24,CMedia
 
-#防止b站自动切换脚本失效
+# 防止b站自动切换脚本失效
 IP-CIDR,203.107.1.1/24,reject
 
 # 愛奇藝台灣站
@@ -94,10 +94,10 @@ DOMAIN-SUFFIX,ls.apple.com,AppleMap
 # iFixit
 DOMAIN-KEYWORD,ifixit,Outside
 
-#hentai
+# hentai
 DOMAIN-KEYWORD,hentai,Outside
 
-#ChatGPT
+# ChatGPT
 DOMAIN-KEYWORD,openai,Outside
 DOMAIN-SUFFIX,sentry.io,Outside
 DOMAIN-SUFFIX,ai.com,Outside
@@ -111,7 +111,7 @@ DOMAIN,production-openaicom-storage.azureedge.net,Outside
 # 其他需要翻墙的国内网站
 DOMAIN-SUFFIX,ithome.com,Netease Music
 
-#喜马拉雅
+# 喜马拉雅
 DOMAIN-KEYWORD,ximalaya,CMedia
 DOMAIN-KEYWORD,xmcdn,CMedia
 DOMAIN-KEYWORD,qnqcdn,CMedia
@@ -125,6 +125,8 @@ IP-CIDR,114.80.161.29/32,CMedia
 IP-CIDR,1.62.62.64/32,CMedia
 
 
-#友盟
+# 友盟
 DOMAIN-SUFFIX,umeng.com,AdBlock
 DOMAIN-SUFFIX,umengcloud.com,AdBlock
+# Mainland China
+geoip, cn, Mainland
