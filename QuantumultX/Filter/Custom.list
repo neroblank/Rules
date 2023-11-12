@@ -118,3 +118,4 @@ DOMAIN-SUFFIX,xmcdn.com,CMedia
 #友盟
 DOMAIN-SUFFIX,umeng.com,AdBlock
 DOMAIN-SUFFIX,umengcloud.com,AdBlock
+IP-CIDR,180.153.255.130,CMedia
