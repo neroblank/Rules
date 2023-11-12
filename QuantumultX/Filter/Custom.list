@@ -114,7 +114,8 @@ DOMAIN-SUFFIX,ithome.com,Netease Music
 # 喜马拉雅
 
 
-IP-CIDR,49.7.155.56/32,CMedia
+IP-CIDR,49.7.155.56/32,AdBlock
+IP-CIDR,114.114.114.114/32,AdBlock
 
 
 # 友盟
