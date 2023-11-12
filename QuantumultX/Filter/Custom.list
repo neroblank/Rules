@@ -114,9 +114,11 @@ DOMAIN-SUFFIX,ithome.com,Netease Music
 #喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com,CMedia
 DOMAIN-SUFFIX,xmcdn.com,CMedia
+DOMAIN-SUFFIX,qnqcdn.com,CMedia
+IP-CIDR,180.153.255.130/32,CMedia
+IP-CIDR,114.80.99.0/24,CMedia
+
 
 #友盟
 DOMAIN-SUFFIX,umeng.com,AdBlock
 DOMAIN-SUFFIX,umengcloud.com,AdBlock
-IP-CIDR,180.153.255.130/32,CMedia
-IP-CIDR,114.80.99.0/24,CMedia
