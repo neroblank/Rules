@@ -132,5 +132,10 @@ IP-CIDR,114.114.114.114/32,AdBlock
 # 友盟
 DOMAIN-SUFFIX,umeng.com,AdBlock
 DOMAIN-SUFFIX,umengcloud.com,AdBlock
+
+# CCTV
+DOMAIN-SUFFIX,cctv.cn,CMedia
+
 # Mainland China
 geoip, cn, Mainland
+
