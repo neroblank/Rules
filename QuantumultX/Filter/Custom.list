@@ -139,3 +139,6 @@ DOMAIN-SUFFIX,cctv.cn,CMedia
 # Mainland China
 geoip, cn, Mainland
 
+# Emby
+DOMAIN-KEYWORD,pilipili,direct
+DOMAIN-KEYWORD,imetyou,direct
