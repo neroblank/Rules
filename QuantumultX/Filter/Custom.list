@@ -8,6 +8,8 @@ DOMAIN-KEYWORD,fanbox,Outside
 # 日本手游
 DOMAIN-SUFFIX,cygames.jp,JP手游
 
+# 测速
+DOMAIN-SUFFIX,speedtest.cn,direct
 
 # Discord
 DOMAIN-SUFFIX,discordapp.com,Discord
