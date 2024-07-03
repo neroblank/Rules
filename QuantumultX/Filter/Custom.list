@@ -145,3 +145,6 @@ geoip, cn, Mainland
 # Emby
 DOMAIN-KEYWORD,pilipili,direct
 DOMAIN-KEYWORD,imetyou,direct
+
+#品葱
+DOMAIN-KEYWORD,pincong,Canada Relay
