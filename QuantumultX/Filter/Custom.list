@@ -65,30 +65,30 @@ DOMAIN-SUFFIX,dynatrace.com,direct
 #geoip, jp, Outside
 
 # bilibili
-DOMAIN,api.biliapi.com,CMedia
-DOMAIN,api.biliapi.net,CMedia
-DOMAIN,api.bilibili.com,CMedia
-DOMAIN,app.biliapi.com,CMedia
-DOMAIN,app.biliapi.net,CMedia
-DOMAIN,app.bilibili.com,CMedia
-DOMAIN,grpc.biliapi.net,CMedia
-DOMAIN,m.bilibili.com,CMedia
-DOMAIN,upos-hz-mirrorakam.akamaized.net,CMedia
-DOMAIN,www.bilibili.com,CMedia
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,CMedia
-ip-cidr,121.11.192.0/24,CMedia
+DOMAIN,api.biliapi.com,China Media
+DOMAIN,api.biliapi.net,China Media
+DOMAIN,api.bilibili.com,China Media
+DOMAIN,app.biliapi.com,China Media
+DOMAIN,app.biliapi.net,China Media
+DOMAIN,app.bilibili.com,China Media
+DOMAIN,grpc.biliapi.net,China Media
+DOMAIN,m.bilibili.com,China Media
+DOMAIN,upos-hz-mirrorakam.akamaized.net,China Media
+DOMAIN,www.bilibili.com,China Media
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,China Media
+ip-cidr,121.11.192.0/24,China Media
 
 # 防止b站自动切换脚本失效
 IP-CIDR,203.107.1.1/24,reject
 
 # 愛奇藝台灣站
-DOMAIN,cache.video.iqiyi.com,CMedia
-IP-CIDR,116.211.202.206/32,CMedia
-IP-CIDR,116.211.202.216/32,CMedia
+DOMAIN,cache.video.iqiyi.com,China Media
+IP-CIDR,116.211.202.206/32,China Media
+IP-CIDR,116.211.202.216/32,China Media
 
 # MangoTV(芒果TV国际)
-DOMAIN-SUFFIX,api.mgtv.com,CMedia
-DOMAIN,mobileso.bz.mgtv.com,CMedia
+DOMAIN-SUFFIX,api.mgtv.com,China Media
+DOMAIN,mobileso.bz.mgtv.com,China Media
 
 # 地图
 DOMAIN-SUFFIX,is.autonavi.com,AppleMap
@@ -115,18 +115,18 @@ DOMAIN,production-openaicom-storage.azureedge.net,Outside
 DOMAIN-SUFFIX,ithome.com,Netease Music
 
 # 喜马拉雅
-DOMAIN-KEYWORD,ximalaya,CMedia
-DOMAIN-KEYWORD,xmcdn,CMedia
-DOMAIN-KEYWORD,qnqcdn,CMedia
+DOMAIN-KEYWORD,ximalaya,China Media
+DOMAIN-KEYWORD,xmcdn,China Media
+DOMAIN-KEYWORD,qnqcdn,China Media
 
-IP-CIDR,180.153.255.0/24,CMedia
-IP-CIDR,180.153.140.0/24,CMedia
-IP-CIDR,180.153.250.0/24,CMedia
-IP-CIDR,114.80.99.0/24,CMedia
-IP-CIDR,211.152.149.0/24,CMedia
-IP-CIDR,114.80.139.237/32,CMedia
-IP-CIDR,114.80.161.29/32,CMedia
-IP-CIDR,1.62.62.64/32,CMedia
+IP-CIDR,180.153.255.0/24,China Media
+IP-CIDR,180.153.140.0/24,China Media
+IP-CIDR,180.153.250.0/24,China Media
+IP-CIDR,114.80.99.0/24,China Media
+IP-CIDR,211.152.149.0/24,China Media
+IP-CIDR,114.80.139.237/32,China Media
+IP-CIDR,114.80.161.29/32,China Media
+IP-CIDR,1.62.62.64/32,China Media
 
 IP-CIDR,49.7.155.56/32,AdBlock
 IP-CIDR,114.114.114.114/32,AdBlock
@@ -137,7 +137,7 @@ DOMAIN-SUFFIX,umeng.com,AdBlock
 DOMAIN-SUFFIX,umengcloud.com,AdBlock
 
 # CCTV
-DOMAIN-SUFFIX,cctv.cn,CMedia
+DOMAIN-SUFFIX,cctv.cn,China Media
 
 # Mainland China
 geoip, cn, Mainland
@@ -145,5 +145,3 @@ geoip, cn, Mainland
 # Emby
 #DOMAIN-KEYWORD,pilipili,direct
 DOMAIN-KEYWORD,imetyou,direct
-
-
