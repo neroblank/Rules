@@ -1,3 +1,8 @@
+#Gooogle Play
+DOMAIN-SUFFIX,googleapis.cngoogleapis.com,Outside
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Outside
+DOMAIN-KEYWORD,gvt2,Outside
+
 # Pixiv
 DOMAIN-KEYWORD,pixiv,Outside
 DOMAIN-SUFFIX,pixiv.net,Outside
@@ -145,3 +150,4 @@ geoip, cn, Mainland
 # Emby
 #DOMAIN-KEYWORD,pilipili,direct
 DOMAIN-KEYWORD,imetyou,direct
+
