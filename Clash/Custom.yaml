@@ -1,0 +1,13 @@
+payload:
+ # 可用策略： 🌐 Outside, 🇨🇳 Mainland, 🤖 AI Suite, 🇯🇵 Japan, Canada Relay
+ # 规则示例： 
+ # 关键字规则: - DOMAIN-KEYWORD,域名关键字,规则
+ # 域名规则：  - DOMAIN-SUFFIX,域名,规则
+ 
+ 
+  # > 所属规则, 添加人
+  
+
+  # > alphaxiv, Peter
+  - DOMAIN-KEYWORD,alphaxiv,🤖 AI Suite
+  
