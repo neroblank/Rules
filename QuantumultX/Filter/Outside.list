@@ -16,7 +16,7 @@ HOST-SUFFIX,discordstatus.com,Outside
 # > Duolingo
 #HOST-SUFFIX,duolingo.cn,Outside
 #HOST-SUFFIX,duolingo.com,Outside
-#HOST-KEYWORD,duolingo,Outside
+HOST-KEYWORD,duolingo,direct
 #USER-AGENT,Duolingo*,Outside
 
 # > Google Voice
