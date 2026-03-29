@@ -1,127 +1,133 @@
 #Gooogle Play
-DOMAIN-SUFFIX,googleapis.cngoogleapis.com,Outside
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Outside
-DOMAIN-KEYWORD,gvt,Outside
+host-suffix,googleapis.cngoogleapis.com,Outside
+host-suffix,xn--ngstr-lra8j.com,Outside
+host-keyword,gvt,Outside
 
 # Pixiv
-DOMAIN-KEYWORD,pixiv,Outside
-DOMAIN-SUFFIX,pixiv.net,Outside
-DOMAIN-SUFFIX,booth.pm,Outside
-DOMAIN-SUFFIX,pximg.net,Outside
-DOMAIN-KEYWORD,fanbox,Outside
+host-keyword,pixiv,Outside
+host-suffix,pixiv.net,Outside
+host-suffix,booth.pm,Outside
+host-suffix,pximg.net,Outside
+host-keyword,fanbox,Outside
 
 # 日本手游
-DOMAIN-SUFFIX,cygames.jp,JP手游
+host-suffix,cygames.jp,JP手游
 
 # 测速
-DOMAIN-SUFFIX,speedtest.cn,direct
+host-suffix,speedtest.cn,direct
 
 # Discord
-DOMAIN-SUFFIX,discordapp.com,Discord
-DOMAIN-SUFFIX,discordapp.net,Discord
-DOMAIN-SUFFIX,discord.com,Discord
-DOMAIN-SUFFIX,discord.gg,Discord
-DOMAIN-SUFFIX,discord.media,Discord
-DOMAIN-SUFFIX,discordstatus.com,Discord
-DOMAIN-KEYWORD,discord,Discord
-IP-CIDR,66.22.196.0/22,Discord
-IP-CIDR,104.29.0.0/16,Discord
-IP-CIDR,162.159.128.0/19,Discord
-IP-CIDR,188.114.96.0/20,Discord
+host-suffix,discordapp.com,Discord
+host-suffix,discordapp.net,Discord
+host-suffix,discord.com,Discord
+host-suffix,discord.gg,Discord
+host-suffix,discord.media,Discord
+host-suffix,discordstatus.com,Discord
+host-keyword,discord,Discord
+ip-cidr,66.22.196.0/22,Discord
+ip-cidr,104.29.0.0/16,Discord
+ip-cidr,162.159.128.0/19,Discord
+ip-cidr,188.114.96.0/20,Discord
 
 
 # malimali
-DOMAIN-KEYWORD,malimali,direct
+host-keyword,malimali,direct
 
 # Banks
-DOMAIN-KEYWORD,rbc,direct
-DOMAIN-SUFFIX,td.com,direct
-DOMAIN-KEYWORD,flybits,direct
-DOMAIN-SUFFIX,bmo.com,direct
-DOMAIN-SUFFIX,dynatrace.com,direct
+host-keyword,rbc,direct
+host-suffix,td.com,direct
+host-keyword,flybits,direct
+host-suffix,bmo.com,direct
+host-suffix,dynatrace.com,direct
 
 # Japan
 #geoip, jp, Outside
 
 # bilibili
-DOMAIN,api.biliapi.com,China Media
-DOMAIN,api.biliapi.net,China Media
-DOMAIN,api.bilibili.com,China Media
-DOMAIN,app.biliapi.com,China Media
-DOMAIN,app.biliapi.net,China Media
-DOMAIN,app.bilibili.com,China Media
-DOMAIN,grpc.biliapi.net,China Media
-DOMAIN,m.bilibili.com,China Media
-DOMAIN,upos-hz-mirrorakam.akamaized.net,China Media
-DOMAIN,www.bilibili.com,China Media
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,China Media
+host,api.biliapi.com,China Media
+host,api.biliapi.net,China Media
+host,api.bilibili.com,China Media
+host,app.biliapi.com,China Media
+host,app.biliapi.net,China Media
+host,app.bilibili.com,China Media
+host,grpc.biliapi.net,China Media
+host,m.bilibili.com,China Media
+host,upos-hz-mirrorakam.akamaized.net,China Media
+host,www.bilibili.com,China Media
+host-keyword,cn-hk-eq-bcache-,China Media
 ip-cidr,121.11.192.0/24,China Media
 
 # 防止b站自动切换脚本失效
-IP-CIDR,203.107.1.1/24,reject
+ip-cidr,203.107.1.1/24,reject
 
 # 愛奇藝台灣站
-DOMAIN,cache.video.iqiyi.com,China Media
-IP-CIDR,116.211.202.206/32,China Media
-IP-CIDR,116.211.202.216/32,China Media
+host,cache.video.iqiyi.com,China Media
+ip-cidr,116.211.202.206/32,China Media
+ip-cidr,116.211.202.216/32,China Media
 
 # MangoTV(芒果TV国际)
-DOMAIN-SUFFIX,api.mgtv.com,China Media
-DOMAIN,mobileso.bz.mgtv.com,China Media
+host-suffix,api.mgtv.com,China Media
+host,mobileso.bz.mgtv.com,China Media
 
 # 地图
-DOMAIN-SUFFIX,is.autonavi.com,AppleMap
-DOMAIN-SUFFIX,ls.apple.com,AppleMap
+host-suffix,is.autonavi.com,AppleMap
+host-suffix,ls.apple.com,AppleMap
 
 # iFixit
-DOMAIN-KEYWORD,ifixit,Outside
+host-keyword,ifixit,Outside
 
 # hentai
-DOMAIN-KEYWORD,hentai,Outside
+host-keyword,hentai,Outside
 
 # ChatGPT
-#DOMAIN-KEYWORD,openai,Outside
-#DOMAIN-SUFFIX,sentry.io,Outside
-#DOMAIN-SUFFIX,ai.com,Outside
-#DOMAIN,o33249.ingest.sentry.io,Outside
-#DOMAIN,chat.openai.com.cdn.cloudflare.net,Outside
-#DOMAIN,openaiapi-site.azureedge.net,Outside
-#DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,Outside
-#DOMAIN,openaicomproductionae4b.blob.core.windows.net,Outside
-#DOMAIN,production-openaicom-storage.azureedge.net,Outside
+#host-keyword,openai,Outside
+#host-suffix,sentry.io,Outside
+#host-suffix,ai.com,Outside
+#host,o33249.ingest.sentry.io,Outside
+#host,chat.openai.com.cdn.cloudflare.net,Outside
+#host,openaiapi-site.azureedge.net,Outside
+#host,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,Outside
+#host,openaicomproductionae4b.blob.core.windows.net,Outside
+#host,production-openaicom-storage.azureedge.net,Outside
 
 # 其他需要翻墙的国内网站
-DOMAIN-SUFFIX,ithome.com,Netease Music
+host-suffix,ithome.com,Netease Music
 
 # 喜马拉雅
-DOMAIN-KEYWORD,ximalaya,China Media
-DOMAIN-KEYWORD,xmcdn,China Media
-DOMAIN-KEYWORD,qnqcdn,China Media
+host-keyword,ximalaya,China Media
+host-keyword,xmcdn,China Media
+host-keyword,qnqcdn,China Media
 
-IP-CIDR,180.153.255.0/24,China Media
-IP-CIDR,180.153.140.0/24,China Media
-IP-CIDR,180.153.250.0/24,China Media
-IP-CIDR,114.80.99.0/24,China Media
-IP-CIDR,211.152.149.0/24,China Media
-IP-CIDR,114.80.139.237/32,China Media
-IP-CIDR,114.80.161.29/32,China Media
-IP-CIDR,1.62.62.64/32,China Media
+ip-cidr,180.153.255.0/24,China Media
+ip-cidr,180.153.140.0/24,China Media
+ip-cidr,180.153.250.0/24,China Media
+ip-cidr,114.80.99.0/24,China Media
+ip-cidr,211.152.149.0/24,China Media
+ip-cidr,114.80.139.237/32,China Media
+ip-cidr,114.80.161.29/32,China Media
+ip-cidr,1.62.62.64/32,China Media
 
-IP-CIDR,49.7.155.56/32,AdBlock
-IP-CIDR,114.114.114.114/32,AdBlock
+ip-cidr,49.7.155.56/32,AdBlock
+ip-cidr,114.114.114.114/32,AdBlock
 
 
 # 友盟
-DOMAIN-SUFFIX,umeng.com,AdBlock
-DOMAIN-SUFFIX,umengcloud.com,AdBlock
+host-suffix,umeng.com,AdBlock
+host-suffix,umengcloud.com,AdBlock
 
 # CCTV
-DOMAIN-SUFFIX,cctv.cn,China Media
-
-# Mainland China
-geoip, cn, Mainland
+host-suffix,cctv.cn,China Media
 
 # Emby
-#DOMAIN-KEYWORD,pilipili,direct
-DOMAIN-KEYWORD,imetyou,direct
+#host-keyword,pilipili,direct
+host-keyword,imetyou,direct
 
+#字节跳动
+host-suffix, zjcdn.com, Mainland
+host-suffix, byteimg.com, Mainland
+host-suffix, amemv.com, Mainland
+host-suffix, bytetos.com, Mainland
+host-suffix, bytedance.com, Mainland
+host-suffix, douyinpic.com, Mainland
+host-suffix, zijieapi.com, Mainland
+host-suffix, bytegecko.com, Mainland
