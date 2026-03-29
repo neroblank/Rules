@@ -123,11 +123,11 @@ host-suffix,cctv.cn,China Media
 host-keyword,imetyou,direct
 
 #字节跳动
-host-suffix, zjcdn.com, Mainland
-host-suffix, byteimg.com, Mainland
-host-suffix, amemv.com, Mainland
-host-suffix, bytetos.com, Mainland
-host-suffix, bytedance.com, Mainland
-host-suffix, douyinpic.com, Mainland
-host-suffix, zijieapi.com, Mainland
-host-suffix, bytegecko.com, Mainland
+host-suffix, zjcdn.com, direct
+host-suffix, byteimg.com, direct
+host-suffix, amemv.com, direct
+host-suffix, bytetos.com, direct
+host-suffix, bytedance.com, direct
+host-suffix, douyinpic.com, direct
+host-suffix, zijieapi.com, direct
+host-suffix, bytegecko.com, direct
