@@ -1,16 +1,17 @@
-#!name=Stick Rules for Rewrite
-#!desc=常用重写规则与一些广告屏蔽，适合大部分用户，更多需求可配合其他重写规则共同使用
-#!openUrl=https://github.com/GeQ1an/Rules/tree/master/Loon
-#!author=GeQ1an
-#!homepage=https://github.com/GeQ1an/Rules/tree/master
-#!icon=https://raw.githubusercontent.com/GeQ1an/Rules/master/Images/Links/Rewrite.png
+#!name = Stick Rules for Rewrite
+#!desc = 常用重写规则与一些广告屏蔽，适合大部分用户，更多需求可配合其他重写规则共同使用
+#!openUrl = https://github.com/GeQ1an/Rules/tree/master/Loon
+#!author = GeQ1an
+#!homepage = https://github.com/GeQ1an/Rules/tree/master
+#!icon = https://raw.githubusercontent.com/GeQ1an/Rules/master/Images/Links/Rewrite.png
+#!loon_version = 2.1.19(382)
+#!tag = 基础,去广告
 # 修改于 DivineEngine 的 Surge 重写 Advertising.sgmodule
 # 现已添加更多用于屏蔽广告的重写规则并将继续添加
-# 建议使用的 Loon 版本大于 2.1.19(382)
-# 2023年03月25日 09:40 UTC/GMT +8
+# 2024年11月23日 21:00 UTC/GMT +8
 
 [MITM]
-hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, passport.biliintl.com, api.21jingji.com, service.4gtv.tv, app.58.com, pic?.ajkimg.com, acs.m.taobao.com, cn-acs.m.cainiao.com, gw.alicdn.com, heic.alicdn.com, amap-aos-info-nogw.amap.com, m*.amap.com, optimus-ads.amap.com, render-oss-cdn.amap.com, sns.amap.com, gw.kaola.com, api-new.app.acfun.cn, api.bjxkhc.com, img2.autoimg.cn, issuecdn.baidupcs.com, newclient.map.baidu.com, mime.baidu.com, act.vip.iqiyi.com, intl.iqiyi.com, app.bilibili.com, manga.bilibili.com, app.api.ke.com, www.bodivis.com.cn, yxyapi*.drcuiyutao.com, app.badmintoncn.com, clientaccess.10086.cn, m.client.10010.com, cloud.189.cn, www.cntv.com, cap.caocaokeji.cn, api.caijingmobile.com, api-access.pangolin-sdk-toutiao.com, app-gw.csdn.net, m.ctrip.com, app.dewu.com, api.douban.com, rtbapi.douyucdn.cn, api.dangdang.com, e.dangdang.com, daoyu.sdo.com, ssp.dzh.com.cn, capis*.didapinche.com, maicai.api.ddxq.mobi, mobileapi-v6.elong.com, i.ys7.com, cdn.fivecdm.com, www.flyertea.com, dsa-mfp.fengshows.cn, *-release.wuta-cam.com, gateway.shouqiev.com, zone.guiderank-app.com, dl.app.gtja.com, smkmp.96225.com, business.msstatic.com, imeclient.openspeech.cn, webboot.zhangyue.com, nnapp.cloudbae.cn, icc.one, jxd524.github.io, ib-soft.net, www.inoreader.com, list-app-m.i4.cn, api.m.jd.com, ms.jr.jd.com, gab.122.gov.cn, api.jxedt.com, *.kakamobi.cn, *.kingsoft-office-service.com, api.gotokeep.com, api.kkmh.com, api.club.lenovo.cn, api.m.mi.com, api.jr.mi.com, api-mifit.huami.com, home.mi.com, api.mgzf.com, creditcardapp.bankcomm.cn, flowplus.meituan.net, capi.mwee.cn, v?-api.miaopai.com, mapi.mafengwo.cn, app.mixcapp.com, appconf.mail.163.com, interface*.music.163.com, support.you.163.com, p.du.163.com, app-api.niu.com, gfp.veta.naver.com, slapi.oray.net, pss.txffp.com, api.yangkeduo.com, api.pinduoduo.com, mrobot.pconline.com.cn, mrobot.pcauto.com.cn, open.qyer.com, media.qyer.com, api.qbb6.com, magev6.if.qidian.com, api.rr.tv, *.uve.weibo.com, weibointl.api.weibo.cn, mapi.weibo.com, tqt.weibo.cn, *.k.sohu.com, *.tv.sohu.com, ap*.smzdm.com, sh-gateway.shihuo.cn, gw-passenger.01zhuanche.com, mpcs.suning.com, ccsp-egmas.sf-express.com, shopic.sf-express.com, api*.futunn.com, ssl.kohsocialapp.qq.com, 4gimg.map.qq.com, r.inews.qq.com, news.ssp.qq.com, mp.weixin.qq.com, m.tuniu.com, img*.10101111cdn.com, msg.umengcloud.com, oss.umetrip.com, api.vuevideo.net, api.vistopia.com.cn, thor.weidian.com, api.waitwaitpay.com, api-one.wallstcn.com, explorer.tratao.com, api.xiachufang.com, ads-img-al.xhscdn.com, api.xueqiu.com, promo.xueqiu.com, 182.92.251.113, 101.201.175.228, www.xiaohongshu.com, venus.yhd.com, api.yizhibo.com, www.zhihu.com, api.zhihu.com, 103.41.167.*, a.qiumibao.com, *.zhuishushenqi.com, syh.zybang.com, api.izuiyou.com, tiku.zhan.com
+hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, passport.biliintl.com, api.21jingji.com, service.4gtv.tv, app.58.com, pic?.ajkimg.com, acs.m.taobao.com, cn-acs.m.cainiao.com, gw.alicdn.com, heic.alicdn.com, amap-aos-info-nogw.amap.com, m*.amap.com, optimus-ads.amap.com, render-oss-cdn.amap.com, sns.amap.com, gw.kaola.com, api-new.app.acfun.cn, api.bjxkhc.com, img2.autoimg.cn, api-access.pangolin-sdk-toutiao.com, api-access.pangolin-sdk-toutiao1.com, pan.baidu.com, issuecdn.baidupcs.com, newclient.map.baidu.com, mime.baidu.com, act.vip.iqiyi.com, intl.iqiyi.com, app.bilibili.com, manga.bilibili.com, app.api.ke.com, www.bodivis.com.cn, yxyapi*.drcuiyutao.com, app.badmintoncn.com, api3.cls.cn, clientaccess.10086.cn, m.client.10010.com, cloud.189.cn, www.cntv.com, cap.caocaokeji.cn, api.caijingmobile.com, gateway.abite.com, gateway.cotticoffee.com, app-gw.csdn.net, m.ctrip.com, app.dewu.com, api.douban.com, rtbapi.douyucdn.cn, esdk.tymcdn.com, api.dangdang.com, e.dangdang.com, daoyu.sdo.com, ssp.dzh.com.cn, capis*.didapinche.com, maicai.api.ddxq.mobi, mobileapi-v6.elong.com, i.ys7.com, cdn.fivecdm.com, www.flyertea.com, dsa-mfp.fengshows.cn, *-release.wuta-cam.com, gateway.shouqiev.com, zone.guiderank-app.com, dl.app.gtja.com, superapp.kiwa-tech.com, smkmp.96225.com, business.msstatic.com, imeclient.openspeech.cn, webboot.zhangyue.com, nnapp.cloudbae.cn, icc.one, jxd524.github.io, ib-soft.net, www.inoreader.com, list-app-m.i4.cn, api.m.jd.com, ms.jr.jd.com, gab.122.gov.cn, api.jxedt.com, *.kakamobi.cn, switch.jumpvg.com, *.kingsoft-office-service.com, api.gotokeep.com, api.kkmh.com, api.club.lenovo.cn, api.m.mi.com, api.jr.mi.com, api-mifit.huami.com, home.mi.com, shop-api.retail.mi.com, shopapi.io.mi.com, api.mgzf.com, api.mcd.cn, creditcardapp.bankcomm.cn, flowplus.meituan.net, capi.mwee.cn, v?-api.miaopai.com, mapi.mafengwo.cn, app.mixcapp.com, appconf.mail.163.com, interface*.music.163.com, support.you.163.com, p.du.163.com, app-api.niu.com, gfp.veta.naver.com, slapi.oray.net, nam.veta.naver.com, pss.txffp.com, api.yangkeduo.com, pdapis.pdnews.cn, api.pinduoduo.com, mrobot.pconline.com.cn, mrobot.pcauto.com.cn, open.qyer.com, media.qyer.com, api.qbb6.com, magev6.if.qidian.com, api.rr.tv, *.uve.weibo.com, weibointl.api.weibo.cn, mapi.weibo.com, tqt.weibo.cn, *.k.sohu.com, *.tv.sohu.com, ap*.smzdm.com, sh-gateway.shihuo.cn, gw-passenger.01zhuanche.com, mpcs.suning.com, ccsp-egmas.sf-express.com, shopic.sf-express.com, api*.futunn.com, ssl.kohsocialapp.qq.com, 4gimg.map.qq.com, r.inews.qq.com, news.ssp.qq.com, mp.weixin.qq.com, m.tuniu.com, img*.10101111cdn.com, msg.umengcloud.com, discardrp.umetrip.com, startup.umetrip.com, api.vuevideo.net, api.vistopia.com.cn, thor.weidian.com, api.waitwaitpay.com, api-one.wallstcn.com, explorer.tratao.com, api.xiachufang.com, info.mina.xiaoaisound.com, ads-img-al.xhscdn.com, edith.xiaohongshu.com, www.xiaohongshu.com, api.xueqiu.com, promo.xueqiu.com, 182.92.251.113, 101.201.175.228, venus.yhd.com, api.yizhibo.com, api-mifit-cn2.zepp.com, mbasecc.bas.cmbchina.com, www.zhihu.com, api.zhihu.com, 103.41.167.*, a.qiumibao.com, *.zhuishushenqi.com, syh.zybang.com, api.izuiyou.com, tiku.zhan.com
 
 [Rewrite]
 # Redirect Google Search Service
@@ -112,6 +113,8 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv\/ reject-200
 # > Cainiao - cn-acs.m.cainiao.com
 ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.guoguo\.nbnetflow\.ads\.(show|mshow)\.cn\/ reject-200
+# > Damai
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.damai\.wireless\.home\.welcome\/ reject-200
 # > Taobao - gw.alicdn.com,heic.alicdn.com
 ^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3,4}-\d{4}\.jpg_(1\d{3}|9\d{2})x(1\d{3}|9\d{2})q\d0\.jpg_\.(heic|webp)$ reject-200
 # > Fliggy - gw.alicdn.com
@@ -122,12 +125,15 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 # > Taopiaopiao - acs.m.taobao.com
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.(queryadvertise|queryloadingbanner)\/ reject-200
 # > AMap - amap-aos-info-nogw.amap.com,m*.amap.com,optimus-ads.amap.com,render-oss-cdn.amap.com,sns.amap.com
-^https?:\/\/amap\-aos\-info\-nogw\.amap\.com\/ws\/aos\/alimama\/ reject-200
-^https?:\/\/m\d\.amap\.com\/ws\/message\/notice\/list\? reject-200
+^https?:\/\/amap-aos-info-nogw\.amap\.com\/ws\/aos\/alimama\/ reject-200
+^https?:\/\/m\d\.amap\.com\/ws\/faas\/amap-navigation\/main-page-(assets|location)\? reject-dict
+^https?:\/\/m\d\.amap\.com\/ws\/mapapi\/hint_text\/offline_data\? reject-dict
+^https?:\/\/m\d\.amap\.com\/ws\/message\/notice\/list\? reject-dict
+^https?:\/\/m\d\.amap\.com\/ws\/shield\/(scene/recommend|search/new_hotword)\? reject-dict
 ^https?:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\? reject-200
-^https?:\/\/optimus-ads\.amap\.com\/uploadimg\/ reject-200
+^https?:\/\/optimus-ads\.amap\.com\/uploadimg\/[a-zA-Z0-9]+\.gif reject-200
 ^https?:\/\/render-oss-cdn\.amap\.com\/render\/studio-dev\/image\/ reject-200
-^https?:\/\/sns\.amap\.com\/ws\/msgbox\/pull? reject-200
+^https?:\/\/sns\.amap\.com\/ws\/msgbox\/pull_mp\? reject-dict
 # > YOUKU
 ^https?:\/\/.+?\.ott\.cibntv\.net\/[\w\/-]+.mp4\?sid= reject-200
 # > Kaola - gw.kaola.com
@@ -147,10 +153,13 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/[\w-]+\.snssdk\.com\/.+_ad\/ reject-200
 ^https?:\/\/[\w-]+\.snssdk\.com\/motor\/operation\/activity\/display\/config\/V2\/ reject-200
 ^https?:\/\/.+?\/img\/ad\.union\.api\/ reject-200
+# > ByteDance Union - api-access.pangolin-sdk-toutiao.com,api-access.pangolin-sdk-toutiao1.com
+^https?:\/\/api-access\.pangolin-sdk-toutiao1?\.com\/api\/ad\/ reject-200
 # ---(Baidu)---
-# > Baidu NetDisk - issuecdn.baidupcs.com
-^https?:\/\/pan\.baidu\.com\/rest\/\d\.\d\/pcs\/adx reject-200
+# > Baidu NetDisk - pan.baidu.com,issuecdn.baidupcs.com
 ^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry reject-200
+^https?:\/\/pan\.baidu\.com\/act\/v\d\/(bchannel|welfare)\/list reject-200
+^https?:\/\/pan\.baidu\.com\/rest\/\d\.\d\/pcs\/ad reject-200
 ^https?:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao reject-200
 # > Baidu Tieba
 ^https?:\/\/c\.tieba\.baidu\.com\/c\/f\/forum\/getAdInfo reject-200
@@ -158,7 +167,11 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 # ^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule reject-200
 ^https?:\/\/.+?\/c\/s\/splashSchedule reject-200
 # > Baidu Map - newclient.map.baidu.com
+^https?:\/\/newclient\.map\.baidu\.com\/client\/crossmarketing reject-200
+^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui.*qt=hw reject-200
+^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui.*qt=rgc reject-200
 ^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads reject-200
+^https?:\/\/newclient\.map\.baidu\.com\/client\/usersystem\/home\/dynamic reject-200
 # > Baidu InputMethod - mime.baidu.com
 ^https?:\/\/mime\.baidu\.com\/v\d\/IosStart\/getStartInfo$ reject-200
 ^https?:\/\/mime\.baidu\.com\/v\d\/activity\/advertisement reject-200
@@ -185,6 +198,8 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/app\.badmintoncn\.com/mag/operative/v\d/ad/ reject-200
 
 # C
+# > Cailianshe - api3.cls.cn
+^https?:\/\/api3\.cls\.cn\/v1\/boot\/ad\? reject-dict
 # > ChinaMobile - clientaccess.10086.cn
 ^https?:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit - reject
 ^https?:\/\/wap\.js\.10086\.cn\/jsmccClient\/cd\/market_content\/api\/v\d\/market_content\.page\.query reject-200
@@ -209,8 +224,9 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 # > CaijingNet - api.caijingmobile.com
 ^https?:\/\/api\.caijingmobile\.com\/(ad|advert)\/ reject-200
 ^https?:\/\/m\.caijing\.com\.cn\/startup_ad_ios\.html$ reject-200
-# > Coolapk - api-access.pangolin-sdk-toutiao.com
-^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/ reject-200
+# > Cotti Coffee - gateway.abite.com,gateway.cotticoffee.com
+^https?:\/\/gateway\.abite\.com\/cotti-capi\/customer\/position\/list\?code=cotti-launch-window reject-dict
+^https?:\/\/gateway\.cotticoffee\.com\/cotti-capi\/customer\/position\/list\?code=cotti-launch-window reject-dict
 # > CSDN - app-gw.csdn.net
 ^https?:\/\/app-gw\.csdn\.net\/cms-app\/v\d\/home_page\/open_advertisement reject-200
 # > Ctrip - m.ctrip.com
@@ -223,6 +239,8 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/api\.douban\.com\/v\d\/app_ads\/ reject-200
 # > DouYuZhiBo - rtbapi.douyucdn.cn
 ^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo reject-200
+# > Dangbeijia - esdk.tymcdn.com
+^https?:\/\/esdk\.tymcdn\.com\/dbGold\/m\/v2\/mobileLiveReveal\.do\? reject-dict
 # > Dangdang - api.dangdang.com,e.dangdang.com
 ^https?:\/\/api\.dangdang\.com\/mapi\d\/mobile\/init reject-200
 ^https?:\/\/e\.dangdang\.com\/media\/api\d\.go\?action=getDeviceStartPage reject-200
@@ -277,6 +295,8 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/dl\.app\.gtja\.com\/dzswem\/kvController\/[\w\/]+\.jpg$ reject-200
 
 # H
+# > Haidilao - superapp.kiwa-tech.com
+^https?:\/\/superapp\.kiwa-tech\.com\/app\/ads\/selectList reject-200
 # > HangZhou CityzenCard - smkmp.96225.com
 ^https?:\/\/smkmp\.96225.com\/smkcenter\/ad/ reject-200
 # > HanjuTV
@@ -307,8 +327,7 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 
 # J
 # > JD - api.m.jd.com
-# ^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start reject-200
-^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=queryMaterialAdverts reject-200
+^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=(start|queryMaterialAdverts) reject-200
 ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ reject-200
 # > JDJinRong - ms.jr.jd.com
 ^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo reject-200
@@ -319,6 +338,8 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/api\.jxedt\.com\/ad\/ reject-200
 # > JiaKaoBaoDian - *.kakamobi.cn
 ^https?:\/\/\w+\.kakamobi\.cn\/api\/open\/v\d\/advert-sdk\/ reject-200
+# > Jump - switch.jumpvg.com
+^https?:\/\/switch\.jumpvg\.com\/jump\/(getlaunchad|recommend\/ad_conf) reject-200
 
 # K
 # > Kingsoft - *.kingsoft-office-service.com
@@ -337,17 +358,21 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/api\.club\.lenovo\.cn\/common\/open_ad reject-200
 
 # M
-# > MI - api.m.mi.com,api.jr.mi.com,api-mifit.huami.com,home.mi.com
+# > MI - api.m.mi.com,api.jr.mi.com,api-mifit.huami.com,home.mi.com,shop-api.retail.mi.com,shopapi.io.mi.com
 ^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start reject-200
 ^https?:\/\/api\.jr\.mi\.com\/jr\/api\/splashScreen reject-200
 ^https?:\/\/api-mifit\.huami\.com\/discovery\/mi\/discovery\/\w+_ad\? reject-200
-^https?:\/\/home\.mi\.com\/cgi-op\/api\/v\d\/recommendation\/banner reject-200
+^https?:\/\/home\.mi\.com\/cgi-op\/api\/v1\/recommendation\/(banner|myTab|openingBanner) reject-dict
+^https?:\/\/shop-api\.retail\.mi\.com\/mtop\/navi\/skywheel\/mishop\/splash reject-dict
+^https?:\/\/shopapi\.io\.mi\.com\/mtop\/mf\/resource\/homePage\/pageConfig reject-200
 # > MogoRenter - api.mgzf.com
 ^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage reject-200
 # > Maidanba
 ^https?:\/\/creditcardapp\.bankcomm\.cn\/mappweb_interface\/common\/(qryPopAds|qryLaunchAds)\.do reject-200
 # > ManHuaRen
 ^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/public\/getStartPageAds reject-200
+# > McDonald's - api.mcd.cn
+^https?:\/\/api\.mcd\.cn\/bff\/portal\/(home\/splash|richpop) reject-200
 # > Meituan-Dianping - flowplus.meituan.net
 #^https?:\/\/img\.meituan\.net\/(adunion|display|dpmobile|midas)\/\w+\.(gif|jpg|jpg\.webp)$ reject-200
 #^https?:\/\/p\d\.meituan\.net\/(bizad|wmbanner)\/\w+\.jpg reject-200
@@ -389,12 +414,16 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/slapi\.oray\.net\/adver reject-200
 
 # P
+# > Papago - nam.veta.naver.com
+^https?:\/\/nam\.veta\.naver\.com\/gfp\/v1\?u\=ios_papago_top reject-200
 # > PiaoGen - pss.txffp.com
 ^https?:\/\/pss\.txffp\.com\/piaogen\/images\/launchScreen/ reject-200
 # > Pinduoduo - api.yangkeduo.com,api.pinduoduo.com
 ^https?:\/\/api\.(pinduoduo|yangkeduo)\.com\/api\/cappuccino\/splash reject-200
 # > PeanutWiFi
 ^https?:\/\/cmsapi\.wifi8\.com\/v\d\/(emptyAd|adNew)\/ reject-200
+# > People's Daily - pdapis.pdnews.cn
+^https?:\/\/pdapis\.pdnews\.cn\/api\/rmrb-bff-display-zh\/display\/zh\/c\/launchPage\? reject-200
 # > PConline - mrobot.pconline.com.cn,mrobot.pcauto.com.cn
 ^https?:\/\/mrobot\.(pcauto|pconline)\.com\.cn\/v\d\/ad\dp reject-200
 ^https?:\/\/mrobot\.pconline\.com\.cn\/s\/onlineinfo\/ad\/ reject-200
@@ -483,8 +512,8 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/img\d+\.10101111cdn\.com\/adpos\/ reject-200
 # > Umeng - msg.umengcloud.com
 ^https:\/\/msg\.umengcloud\.com\/admsg\/ reject-200
-# > Umetrip - oss.umetrip.com
-^https?:\/\/oss\.umetrip\.com\/fs\/advert\/polite\/ reject-200
+# > Umetrip - discardrp.umetrip.com,startup.umetrip.com
+^https?:\/\/(discardrp|startup)\.umetrip\.com\/gateway\/api\/umetrip\/native reject-200
 
 # V
 # > VUE - api.vuevideo.net
@@ -509,8 +538,13 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/explorer\.tratao\.com\/api\/client\/v4\/xtransfer\/ad\/ reject-200
 # > Xiachufang - api.xiachufang.com
 ^https?:\/\/api\.xiachufang\.com\/v\d\/ad/ reject-200
-# > Xiaohongshu - ads-img-al.xhscdn.com
+# > Xiaoai Sound - info.mina.xiaoaisound.com
+^https:\/\/info\.mina\.xiaoaisound\.com\/advertise\/ reject-dict
+# > Xiaohongshu - ads-img-al.xhscdn.com,edith.xiaohongshu.com,www.xiaohongshu.com
 ^https?:\/\/ads-img-al\.xhscdn\.com\/hera\/ reject-200
+^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/config\? reject-200
+^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config reject-200
+^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/(tag\/)?ads url reject-200
 # > Ximalaya FM
 ^https?:\/\/.+?\/api\/v\d\/adRealTime reject-200
 ^https?:\/\/.+?\/(outadservice|ting\/preload)\/ reject-200
@@ -519,12 +553,11 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/(api|promo)\.xueqiu\.com\/promotion\/(display_cache|display_ad|feed_display|search_ad) reject-200
 ^https?:\/\/.+?\/brand\/search\/v1\.json reject-200
 ^https?:\/\/api\.xueqiu\.com\/brand\/search\/v1\.json reject-200
-# > Xiaohongshu - www.xiaohongshu.com
-^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config reject-200
-^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/ads\/ reject-200
+^https?:\/\/api\.xueqiu\.com\/snowpard\/launch_strategy\/query\.json reject-200
 
 # Y
 # > Yihaodian - venus.yhd.com
+^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=home_launchConfig reject-200
 ^https?:\/\/venus\.yhd\.com\/memhome\/launchConfig reject-200
 # > YinxiangNote - app.yinxiang.com
 ^https?:\/\/app\.yinxiang\.com\/ads\/ reject-200
@@ -532,6 +565,10 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/api\.yizhibo\.com\/common\/api\/(api_)?pz$ reject-200
 
 # Z
+# > Zepp Life - api-mifit-cn2.zepp.com
+^https?:\/\/api-mifit-cn2\.zepp\.com/discovery\/mi\/cards\/(startpage_ad|homepage_ad)\? reject-200
+# > Zhangshangshenghuo - mbasecc.bas.cmbchina.com
+^https?:\/\/mbasecc\.bas\.cmbchina\.com\/Edge\/api\/mlife\.clientface\.clientservice\.api\.advertiseService\/preCacheAdvertiseSec reject-200
 # > Zhihu - www.zhihu.com,api.zhihu.com,103.41.167.*
 ^https?:\/\/.+?\/commercial_api\/ reject-200
 ^https?:\/\/api\.zhihu\.com\/fringe\/ad reject-200
@@ -556,5 +593,3 @@ hostname = *.google.cn, www.firefox.com.cn, api.abema.io, app.biliintl.com, pass
 ^https?:\/\/tiku\.zhan\.com\/Common\/newAd\/ reject-200
 
 [Script]
-http-request ^https?:\/\/passport\.biliintl\.com\/x\/intl\/passport-login\/(sms\/send|reg\/sms|oauth2\/access_token|login\/sms) script-path=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Rewrite/bstar.js, requires-body=1, max-size=0, tag=bstar_login
-http-request ^https?:\/\/app\.biliintl\.com\/(intl\/gateway\/v\d\/app\/data\/report\/heartbeat\/mobile|x\/(history|reply)/v\d/add), script-path=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Rewrite/bstar.js, requires-body=1, max-size=0, tag=bstar_play
