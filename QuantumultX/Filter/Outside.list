@@ -14,10 +14,10 @@ HOST-SUFFIX,discordapp.net,Outside
 HOST-SUFFIX,discordstatus.com,Outside
 
 # > Duolingo
-HOST-SUFFIX,duolingo.cn,Outside
-HOST-SUFFIX,duolingo.com,Outside
-HOST-KEYWORD,duolingo,Outside
-USER-AGENT,Duolingo*,Outside
+#HOST-SUFFIX,duolingo.cn,Outside
+#HOST-SUFFIX,duolingo.com,Outside
+#HOST-KEYWORD,duolingo,Outside
+#USER-AGENT,Duolingo*,Outside
 
 # > Google Voice
 HOST,lens.l.google.com,Outside
