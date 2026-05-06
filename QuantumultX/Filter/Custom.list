@@ -129,7 +129,7 @@ host-suffix,cctv.cn,China Media
 #host-keyword,pilipili,direct
 host-keyword,imetyou,direct
 
-#字节跳动
+# 字节跳动
 host-suffix, zjcdn.com, direct
 host-suffix, byteimg.com, direct
 host-suffix, amemv.com, direct
@@ -138,3 +138,7 @@ host-suffix, bytedance.com, direct
 host-suffix, douyinpic.com, direct
 host-suffix, zijieapi.com, direct
 host-suffix, bytegecko.com, direct
+
+# Apple OS Update
+host-suffix, xp.apple.com, AppleUpdate
+host-suffix, gdmf.apple.com, AppleUpdate
