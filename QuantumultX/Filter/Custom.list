@@ -11,7 +11,7 @@ host-suffix,pximg.net,Outside
 host-keyword,fanbox,Outside
 
 # 日本手游
-host-suffix,cygames.jp,JP手游
+host-suffix,cygames.jp,Japan
 
 # 测速
 host-suffix,speedtest.cn,direct
@@ -142,3 +142,73 @@ host-suffix, bytegecko.com, direct
 # Apple OS Update
 host-suffix, xp.apple.com, AppleUpdate
 host-suffix, gdmf.apple.com, AppleUpdate
+
+
+# DMM / DMM TV / FANZA
+host-suffix, dmm.com, Japan
+host-suffix, dmm.co.jp, Japan
+host-suffix, dmm-extension.com, Japan
+host-suffix, dmmapis.com, Japan
+host-suffix, dmmrex.com, Japan
+host-suffix, socdm.com, Japan
+
+# TVer
+host-suffix, tver.jp, Japan
+host-suffix, tver.co.jp, Japan
+host-suffix, dogatch.jp, Japan
+host-suffix, screens-lab.jp, Japan
+host-suffix, gorin.jp, Japan
+host-suffix, edge.api.brightcove.com, Japan
+
+# U-NEXT
+host-suffix, unext.jp, Japan
+host-suffix, nxtv.jp, Japan
+
+# Hulu Japan
+host-suffix, hulu.jp, Japan
+host-suffix, happyon.jp, Japan
+host-suffix, hjholdings.jp, Japan
+host-suffix, hjholdings.tv, Japan
+host-suffix, streaks.jp, Japan
+host-suffix, yb.uncn.jp, Japan
+host-suffix, hulujp.silveregg.net, Japan
+
+# FOD / Fuji TV On Demand
+host-suffix, fod.fujitv.co.jp, Japan
+host-suffix, fujitvfod.silveregg.net, Japan
+host-suffix, fod.azurewebsites.net, Japan
+host, geocontrol1.stream.ne.jp, Japan
+
+# TELASA
+host-suffix, telasa.jp, Japan
+host-suffix, videopass.jp, Japan
+
+# Lemino
+host-suffix, lemino.docomo.ne.jp, Japan
+
+# dアニメストア
+host-suffix, animestore.docomo.ne.jp, Japan
+
+# radiko
+host-suffix, radiko.jp, Japan
+host-suffix, smartstream.ne.jp, Japan
+host-suffix, radionikkei.jp, Japan
+
+# WOWOW On Demand
+host-suffix, wowow.co.jp, Japan
+
+# NHK Plus / NHK ONE
+host-suffix, plus.nhk.jp, Japan
+host-suffix, location-plus.nhk.jp, Japan
+host-suffix, nhk-ondemand.jp, Japan
+
+# 日本现场演出 / 票务直播
+# 具体活动可能有地区限制
+host-suffix, stagecrowd.live, Japan
+host-suffix, streaming-plus.net, Japan
+host-suffix, fanstream.jp, Japan
+host-suffix, stream-pass.jp, Japan
+host-suffix, showroom-live.com, Japan
+host-suffix, nogidoga.com, Japan
+host-suffix, smash-media.jp, Japan
+host-suffix, smash-zap.com, Japan
