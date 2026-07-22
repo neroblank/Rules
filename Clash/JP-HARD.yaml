@@ -1,0 +1,98 @@
+rule-providers:
+  JP-HARD:
+    type: inline
+    behavior: classical
+    payload:
+
+      # =========================
+      # DMM / DMM TV / FANZA
+      # =========================
+      - DOMAIN-SUFFIX,dmm.com
+      - DOMAIN-SUFFIX,dmm.co.jp
+      - DOMAIN-SUFFIX,dmm-extension.com
+      - DOMAIN-SUFFIX,dmmapis.com
+      - DOMAIN-SUFFIX,dmmrex.com
+      - DOMAIN-SUFFIX,socdm.com
+
+      # =========================
+      # TVer
+      # =========================
+      - DOMAIN-SUFFIX,tver.jp
+      - DOMAIN-SUFFIX,tver.co.jp
+      - DOMAIN-SUFFIX,dogatch.jp
+      - DOMAIN-SUFFIX,screens-lab.jp
+      - DOMAIN-SUFFIX,gorin.jp
+      - DOMAIN-SUFFIX,edge.api.brightcove.com
+
+      # =========================
+      # U-NEXT
+      # =========================
+      - DOMAIN-SUFFIX,unext.jp
+      - DOMAIN-SUFFIX,nxtv.jp
+
+      # =========================
+      # Hulu Japan
+      # =========================
+      - DOMAIN-SUFFIX,hulu.jp
+      - DOMAIN-SUFFIX,happyon.jp
+      - DOMAIN-SUFFIX,hjholdings.jp
+      - DOMAIN-SUFFIX,hjholdings.tv
+      - DOMAIN-SUFFIX,streaks.jp
+      - DOMAIN-SUFFIX,yb.uncn.jp
+      - DOMAIN-SUFFIX,hulujp.silveregg.net
+
+      # =========================
+      # FOD / Fuji TV On Demand
+      # =========================
+      - DOMAIN-SUFFIX,fod.fujitv.co.jp
+      - DOMAIN-SUFFIX,fujitvfod.silveregg.net
+      - DOMAIN-SUFFIX,fod.azurewebsites.net
+      - DOMAIN,geocontrol1.stream.ne.jp
+
+      # =========================
+      # TELASA
+      # =========================
+      - DOMAIN-SUFFIX,telasa.jp
+      - DOMAIN-SUFFIX,videopass.jp
+
+      # =========================
+      # Lemino
+      # =========================
+      - DOMAIN-SUFFIX,lemino.docomo.ne.jp
+
+      # =========================
+      # dアニメストア
+      # =========================
+      - DOMAIN-SUFFIX,animestore.docomo.ne.jp
+
+      # =========================
+      # radiko
+      # =========================
+      - DOMAIN-SUFFIX,radiko.jp
+      - DOMAIN-SUFFIX,smartstream.ne.jp
+      - DOMAIN-SUFFIX,radionikkei.jp
+
+      # =========================
+      # WOWOW On Demand
+      # =========================
+      - DOMAIN-SUFFIX,wowow.co.jp
+
+      # =========================
+      # NHK Plus / NHK ONE
+      # =========================
+      - DOMAIN-SUFFIX,plus.nhk.jp
+      - DOMAIN-SUFFIX,location-plus.nhk.jp
+      - DOMAIN-SUFFIX,nhk-ondemand.jp
+
+      # =========================
+      # 日本现场演出 / 票务直播
+      # 具体活动可能有地区限制
+      # =========================
+      - DOMAIN-SUFFIX,stagecrowd.live
+      - DOMAIN-SUFFIX,streaming-plus.net
+      - DOMAIN-SUFFIX,fanstream.jp
+      - DOMAIN-SUFFIX,stream-pass.jp
+      - DOMAIN-SUFFIX,showroom-live.com
+      - DOMAIN-SUFFIX,nogidoga.com
+      - DOMAIN-SUFFIX,smash-media.jp
+      - DOMAIN-SUFFIX,smash-zap.com
