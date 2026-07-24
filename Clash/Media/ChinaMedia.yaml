@@ -98,3 +98,21 @@ payload:
   - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,ykimg.com  
+
+  #全民K歌
+  - DOMAIN-SUFFIX,qy.aisee.tv
+  - DOMAIN-SUFFIX,kg.qq.com
+  - DOMAIN-SUFFIX,y.gtimg.cn
+  - DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+  - DOMAIN-SUFFIX,oth.str.mdt.qq.com
+  - IP-CIDR,43.130.194.0/24,no-resolve
+  - IP-CIDR,182.254.116.0/24,no-resolve
+  - IP-CIDR,111.12.174.0/24,no-resolve
+  - IP-CIDR,183.240.186.0/24,no-resolve
+  - IP-CIDR,106.55.88.0/24,no-resolve
+  - IP-CIDR,43.155.124.0/24,no-resolve
+  - IP-CIDR,120.233.21.0/24,no-resolve
+
+  # 央视频
+  - DOMAIN-SUFFIX,yangshipin.cn
+  - DOMAIN-SUFFIX,ysp.cctv.cn
